@@ -56,7 +56,7 @@ int main() {
 				execvp(argv[0],argv);
 				close(fd);
 				}else{
-                printf("%s giris dosyasi bulunamadi.\n",argv[1]);
+                printf("%s input file not found.\n",argv[1]);
             	}
     		}
     	}
@@ -70,7 +70,7 @@ int main() {
 				execvp(argv[0],argv);
 				close(fd);
 				}else{
-                printf("%s giris dosyasi bulunamadi.\n",argv[2]);
+                printf("%s input file not found.\n",argv[2]);
             	}
     		}
     	}
