@@ -18,11 +18,12 @@ Compile then type this in command line
 ./Shell
 ```
 
-_For more examples and usage, please refer to the [GG][geeksforgeeks]._
+_For more examples and usage, please refer to the [Geeksforgeeks][geeksforgeeks]._
 
 
 ## Meta
 
 Enes Yılmaz – [@LinkedIn](https://www.linkedin.com/in/enes-ylmz/) – enes.yilmaz15@ogr.sakarya.edu.tr
 
-[GG]: https://www.geeksforgeeks.org/making-linux-shell-c/
+<!-- Markdown link & img dfn's -->
+[Geeksforgeeks]: https://www.geeksforgeeks.org/making-linux-shell-c
