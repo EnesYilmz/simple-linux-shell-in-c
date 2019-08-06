@@ -10,7 +10,7 @@ Linux with any C complier(I used MinGW):
 make
 ```
 
-## Usage example
+## Usage
 
 Compile then type this in command line
 
